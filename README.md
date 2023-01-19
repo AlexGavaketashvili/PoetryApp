@@ -6,7 +6,6 @@ Navigation component
 Shared preferences
 Recycler view
 Dialogs
-View Pager
 
 <br/>
 
