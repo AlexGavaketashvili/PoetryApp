@@ -63,7 +63,7 @@ class AddNoteActivity : AppCompatActivity() {
                 } else {
                     notesList[notePosition] = getNote()
                 }
-                finish()
+                startActivity(Intent(this@AddNoteActivity,MainActivity::class.java))
             }
         }
     }
